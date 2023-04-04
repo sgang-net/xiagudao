@@ -15,6 +15,7 @@
         <module>x-mvc-config</module>
         <module>x-admin</module>
         <module>x-authorization-center</module>
+        <module>x-gateway</module>
     </modules>
 
     <parent>
