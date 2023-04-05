@@ -4,7 +4,7 @@ import org.springframework.beans.factory.annotation.Value;
 import org.springframework.stereotype.Component;
 
 @Component
-public class GatewayConf {
+public class GatewayConfig {
     /**
      * 读取配置的超时时间
      */
